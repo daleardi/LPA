@@ -3,7 +3,7 @@ Loan Pricing Adjustment Calculator
 
 This script calculates the Total Cost of a loan for use with APR calculations.
 
-## Enail 1: Assignment Description
+## Email 1: Assignment Description
 
 Hi Dom,
 
