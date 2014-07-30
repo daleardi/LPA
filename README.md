@@ -3,7 +3,7 @@ LPA
 
 This script calculates the Total Cost of a loan for use with APR calculations.
 
-# Enail 1: Assignment Description
+## Enail 1: Assignment Description
 
 Hi Dom,
 
@@ -17,7 +17,7 @@ Remember 2 things: 1) This is supposed to be fun :) and 2) I realize you're not 
 
 John
 
-# Email 2: First Draft 
+## Email 2: First Draft 
 
 Hey John, 
 
