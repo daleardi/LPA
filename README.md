@@ -1,4 +1,4 @@
-LPA
+Loan Pricing Adjustment Calculator
 ===
 
 This script calculates the Total Cost of a loan for use with APR calculations.
